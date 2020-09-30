@@ -1,4 +1,4 @@
-# object-oriented-design-course-projects
+# Object Oriented Design Course Tasks
 All my Tasks of Object-Oriented Design Course -  Alberta University  
 
 ## Course Contents & Details  
